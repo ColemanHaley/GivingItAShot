@@ -1,0 +1,8 @@
+cohere==5.2.4
+huggingface-hub==0.22.2
+openai==1.16.2
+pandas==2.2.1
+sacrebleu==2.4.1
+snakemake==8.10.6
+tqdm==4.66.2
+transformers==4.38.2
